@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated plots (optional - comment out if you want to track them)
+# *.png
+
+# Extra large datasets (keep car data.csv)
+CAR DETAILS FROM CAR DEKHO.csv
+Car details v3.csv
+car details v4.csv
+
+# Models
+*.pkl
+*.joblib
+models/
